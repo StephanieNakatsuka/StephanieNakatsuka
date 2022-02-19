@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @StephanieNakatsuka
+- 👀 I’m interested in 😺.
+- 🌱 I’m currently learning JavaScript.
